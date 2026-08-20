@@ -1,0 +1,6 @@
+{
+  "name": "ScreenshotDiff",
+  "enabled": true,
+  "verbose": false,
+  "output_dir": "./out"
+}
